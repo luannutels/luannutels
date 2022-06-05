@@ -1,16 +1,26 @@
-### Hi there 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=luannutels.luannutels)
+  
+</p>
 
-<!--
-**luannutels/luannutels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> About Me </h2>
 
-Here are some ideas to get you started:
+- 💻 I'm a FullStack Web Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 Certifications: LGPDF | NSE-1 | ISO 20000 | ISO 27001 | ISO 9001 | NSE-2 in progress
+
+- 🎓 I graduated on Amazon Web Services (AWS) by AWS re / Start in 2021.
+  
+- 👨‍🎓 I am currently Studying Bachelor's Degree in Computer Science and Security Management and Cyber Defense.
+  
+- 👯 I’m looking to collaborate on Projects and Tech Articles.
+
+- 💬 Talk to me about UX/UI, Web Development, Mobile Development, Software Engineering, Cyber Defense, Ethical Hacking, Cybersecurity, Information Security, Freelancing Opportunites, Open-Source Softwares, AI and Computer Science.
+  
+- 📍 Currently living in São Paulo, BR.
+  
+<h2> Languages Stats </h2>
+  <div>
+  <a href="https://github.com/luannutels">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannutels&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  
+  ##
