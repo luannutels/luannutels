@@ -6,7 +6,7 @@
 
 - 💻 I'm a FullStack Web Developer.
 
-- 📄 Certifications: LGPDF | NSE-1 | ISO 20000 | ISO 27001 | ISO 9001 | NSE-2 in progress
+- 📄 Certifications: LGPDF | NSE-1 | ISO 20000 | ISO 27001 | ISO 9001
 
 - 🎓 I graduated on Amazon Web Services (AWS) by AWS re / Start in 2021.
 
