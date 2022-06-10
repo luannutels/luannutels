@@ -9,6 +9,8 @@
 - 📄 Certifications: LGPDF | NSE-1 | ISO 20000 | ISO 27001 | ISO 9001 | NSE-2 in progress
 
 - 🎓 I graduated on Amazon Web Services (AWS) by AWS re / Start in 2021.
+
+- 🎓 I graduated on Github by Microsoft in 2022.
   
 - 👨‍🎓 I am currently Studying Bachelor's Degree in Computer Science and Security Management and Cyber Defense.
   
