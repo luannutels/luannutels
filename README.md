@@ -12,7 +12,7 @@
 
 - 🎓 I graduated on Github by Microsoft in 2022.
   
-- 👨‍🎓 I am currently Studying Bachelor's Degree in Computer Science and Security Management and Cyber Defense.
+- 👨‍🎓 Academic in Security Management and Cyber Defense.
   
 - 👯 I’m looking to collaborate on Projects and Tech Articles.
 
