@@ -4,7 +4,7 @@
 
 <h2> About Me </h2>
 
-- 💻 UX/UI Developer, Front-end and RPA, passionate about innovation and technology, proactive, curious and self-taught.
+- 💻 Passionate about innovation and technology, proactive, curious and self-taught.
 
 - 📄 Certifications: LGPDF | NSE-1 | ISO 20000 | ISO 27001 | ISO 9001
 
